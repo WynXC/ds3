@@ -1,24 +1,24 @@
 const collectionInfo = {
-    name: "CodeName: Perseus",
+    name: "VERY TECH",
     title: "{name}",
-    date: "28.06.2022",
+    date: "30.06.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "logo.jpg",
         favicon: "logo.jpg",
     },
     background: {
-        type: "image",
-        image: "bg.png",
-        video: "",
+        type: "video",
+        image: "",
+        video: "1.mp4",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 3.5,
+    price: 4,
     totalSupply: 5555,
     toFixed: 1,
     minUnits: 1,
