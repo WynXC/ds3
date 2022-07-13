@@ -1,18 +1,18 @@
 const collectionInfo = {
-    name: "Eternal Dragons",
+    name: "MetaMutantCoin",
     title: "{name}",
-    date: "12.07.2022",
+    date: "13.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "logo.jpg",
         favicon: "logo.jpg",
     },
     background: {
         type: "image",
-        image: "bg.jpg",
+        image: "1.gif",
         video: "",
         color: "#4E4E6D",
     }
