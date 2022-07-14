@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "MetaMutantCoin",
+    name: "DucksVegas",
     title: "{name}",
-    date: "13.07.2022",
+    date: "14.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -12,15 +12,15 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "1.gif",
+        image: "bg.png",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 2,
+    price: 1.95,
     totalSupply: 1888,
-    toFixed: 1,
+    toFixed: 2,
     minUnits: 1,
     maxUnits: 1,
     askMintLoop: true,
