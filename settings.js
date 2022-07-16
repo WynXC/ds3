@@ -1,26 +1,26 @@
 const collectionInfo = {
-    name: "DucksVegas",
+    name: "Shisōka | The Outcasts",
     title: "{name}",
-    date: "14.07.2022",
+    date: "16.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "logo.jpg",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
         type: "image",
-        image: "bg.png",
+        image: "bg.jpg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1.95,
+    price: 2,
     totalSupply: 1888,
-    toFixed: 2,
+    toFixed: 1,
     minUnits: 1,
     maxUnits: 1,
     askMintLoop: true,
