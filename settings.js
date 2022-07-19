@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "MoveMan",
+    name: "Bigfoot Town",
     title: "{name}",
-    date: "18.07.2022",
+    date: "20.07.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -12,13 +12,13 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "bg.jpg",
+        image: "bg.png",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 0.5,
+    price: 1.4,
     totalSupply: 1888,
     toFixed: 1,
     minUnits: 1,
