@@ -1,28 +1,28 @@
 const collectionInfo = {
-    name: "Lonely Loners",
+    name: "Bigfoot Town",
     title: "{name}",
-    date: "27.07.2022",
+    date: "05.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "logo.jpg",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
         type: "image",
-        image: "bg.jpg",
+        image: "bg.png",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1,
+    price: 1.4,
     totalSupply: 1888,
     toFixed: 1,
     minUnits: 1,
-    maxUnits: 1,
+    maxUnits: 2,
     askMintLoop: true,
 }
 
