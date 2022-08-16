@@ -1,7 +1,7 @@
 const collectionInfo = {
-    name: "Bigfoot Town",
+    name: "Crypto Manga Labs",
     title: "{name}",
-    date: "05.08.2022",
+    date: "16.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
@@ -12,13 +12,13 @@ const collectionInfo = {
     },
     background: {
         type: "image",
-        image: "bg.png",
+        image: "bg.jpg",
         video: "",
         color: "#4E4E6D",
     }
 }
 const mintInfo = {
-    price: 1.4,
+    price: 1.5,
     totalSupply: 1888,
     toFixed: 1,
     minUnits: 1,
