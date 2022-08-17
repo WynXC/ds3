@@ -22,7 +22,7 @@ const mintInfo = {
     totalSupply: 1888,
     toFixed: 2,
     minUnits: 1,
-    maxUnits: 2,
+    maxUnits: 1,
     askMintLoop: true,
 }
 
