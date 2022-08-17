@@ -1,13 +1,13 @@
 const collectionInfo = {
-    name: "Crypto Manga Labs",
+    name: "SolBookie Sportsbook",
     title: "{name}",
-    date: "16.08.2022",
+    date: "17.08.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "1.gif",
+        preview: "logo.jpg",
         favicon: "logo.jpg",
     },
     background: {
@@ -18,9 +18,9 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.5,
+    price: 1.99,
     totalSupply: 1888,
-    toFixed: 1,
+    toFixed: 2,
     minUnits: 1,
     maxUnits: 2,
     askMintLoop: true,
