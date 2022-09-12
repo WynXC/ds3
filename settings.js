@@ -1,13 +1,13 @@
 const collectionInfo = {
-    name: "SolBookie Sportsbook",
+    name: "Coinfra Labs",
     title: "{name}",
-    date: "17.08.2022",
+    date: "13.09.2022",
     socialMedia: {
         discord: "https://discord.com/",
         twitter: "https://twitter.com/",
     },
     medias: {
-        preview: "logo.jpg",
+        preview: "1.gif",
         favicon: "logo.jpg",
     },
     background: {
@@ -18,11 +18,11 @@ const collectionInfo = {
     }
 }
 const mintInfo = {
-    price: 1.99,
+    price: 1.5,
     totalSupply: 1888,
-    toFixed: 2,
+    toFixed: 1,
     minUnits: 1,
-    maxUnits: 1,
+    maxUnits: 2,
     askMintLoop: true,
 }
 
